@@ -1,0 +1,13 @@
+{
+  "id": 123,
+  "client": {
+    "name": "Skyeng",
+    "unused": "field"
+  },
+  "attributes": [
+    {
+      "key": "param1",
+      "value": "value1"
+    }
+  ]
+}
